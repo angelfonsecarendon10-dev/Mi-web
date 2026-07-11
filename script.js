@@ -1,0 +1,1 @@
+function buscar(){alert('Buscador en desarrollo');}
